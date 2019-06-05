@@ -1,0 +1,35 @@
+{
+  "attributes": [
+    {
+      "trait_type": "size", 
+      "value": "medium"
+    }, 
+    {
+      "trait_type": "type", 
+      "value": "terrestrial"
+    }, 
+    {
+      "trait_type": "habitability", 
+      "value": "excellent"
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "base_production", 
+      "value": 100
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "base_research", 
+      "value": 100
+    },  
+    {
+      "display_type": "number", 
+      "trait_type": "generation", 
+      "value": 1
+    }
+  ], 
+  "description": "Earth is a waterworld, with two-thirds of the planet covered by ocean.", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png", 
+  "name": "Earth"
+}
